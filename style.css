@@ -47,6 +47,13 @@ body {
   transition: all 2s ease;
 }
 
+.photos-container {
+  display: flex;
+  gap: 20px;       /* space between images */
+  justify-content: center; /* center them horizontally */
+  flex-wrap: wrap; /* allows wrapping on smaller screens */
+  margin-top: 20px;
+}
 .photo img {
   max-width: 100%;
   border-radius: 14px;
