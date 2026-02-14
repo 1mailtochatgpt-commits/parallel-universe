@@ -7,6 +7,10 @@ const ASSETS = [
   "./script.js",
   "./manifest.json",
   "./assets/us.jpg",
+  "./assets/wy1.jpg",
+  "./assets/pws.jpg",
+  "./assets/ma2.jpg",
+  "./assets/eg1.jpg",
   "./assets/ambient.mp3",
   "./assets/rain.mp3"
 ];
